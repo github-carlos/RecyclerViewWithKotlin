@@ -1,0 +1,11 @@
+1 - Adicionar dependency ao gradle do app - compile 'com.android.support:design:26.1.0' e compile 'com.android.support:recyclerview-v7:25.3.1'
+2 - adicionar recycler view ao layout
+3 - criar layout para o item
+4 - criar Adapter
+    criar modelo
+    herdar de adapter
+    implementar metodos
+    implementar classe viewHoler
+    no oncreateviewholder retornamos o nosso viewHolder
+5 - setar manager
+6 - 
